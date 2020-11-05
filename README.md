@@ -1,19 +1,19 @@
 # myto_dolistbot
-Название проекта: myto_dolistbot
+Project name: myto_dolistbot
 
-Автор: Михаэль Павлов, студент I курса СПбГУ
+Author: Michael Pavlov, SPbU student
 
-Инструкция по использованию:
-1. Для начала запустите проект в IDE, предварительно скачав все нужные плагины и вставив в код свой токен
-2. Бота можно найти в Telegram по имени @myto_dolistbot
-3. Нажмите кнопку 'Start'. Ботом можно управлять при помощи экранной клавиатуры или текстовых команд
+How to set up the bot:
+1. Download the required plugins, insert your bot token into the code and launch the project in your IDE of choice
+2. You can find the bot using the name @myto_dolistbot
+3. Press the 'Start' button. Ботом можно управлять при помощи экранной клавиатуры или текстовых команд The bot is controlled through the screen keyboard or by typing the listed commands manually
 
-Описание команд:
-* /start - идентификация пользователя
-* /all - посмотреть список задач
-* /new_item - позволяет добавить задачу в общий список
-* /add_pic - позволяет прикрепить картинку к выбранной задаче
-* /swap - меняет две задачи, отправленные через проблем, местами
-* /delete - удаляет выбранную задачу и, при наличии, прикрепленную картинку
-* /help - помощь, особо не помогает
-* /author - да да я
+Commands and their description:
+* /start - launch the bot
+* /all - check your to-do list
+* /new_item - add a new task to the list
+* /add_pic - add a picture to any task
+* /swap - swap two tasks separated by a space
+* /delete - delete chosen task and it's picture, if it has one
+* /help - help, doesn't really help though
+* /author - yep, that's me
