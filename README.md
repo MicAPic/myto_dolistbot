@@ -14,6 +14,6 @@ Commands and their description:
 * /new_item - add a new task to the list
 * /add_pic - add a picture to any task
 * /swap - swap two tasks separated by a space
-* /delete - delete chosen task and it's picture, if it has one
+* /delete - delete chosen task and its picture, if it has one
 * /help - help, doesn't really help though
 * /author - yep, that's me
