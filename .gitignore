@@ -1,5 +1,5 @@
 # Project exclude paths
 /venv/
-/.idea/
+/.idea
 /todolists/*.txt
 /pictures/*.jpg
