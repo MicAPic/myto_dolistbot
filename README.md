@@ -1,7 +1,7 @@
 # myto_dolistbot
 Project name: myto_dolistbot
 
-Author: Michael Pavlov, student of the Saint Petersburg University
+Author: Michael Pavlov (SPbU)
 
 How to set up the bot:
 1. Download the required plugins, insert your bot token into the code and launch the project in your IDE of choice
